@@ -92,12 +92,12 @@
     },
     {
       "path": "./MultiComponents",
-      "has_dependencies": false,
+      "has_dependencies": true,
       "requires_oauth": false
     },
     {
       "path": "./Multitenancy",
-      "has_dependencies": false,
+      "has_dependencies": true,
       "requires_oauth": false
     },
     {
@@ -122,7 +122,7 @@
     },
     {
       "path": "./Proxy",
-      "has_dependencies": false,
+      "has_dependencies": true,
       "requires_oauth": false
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "path": "./RESTMethod",
-      "has_dependencies": false,
+      "has_dependencies": true,
       "requires_oauth": false
     },
     {
